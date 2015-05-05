@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 Aggiunta file by kukuviza;
 modifica file su nuovo branch by kukuviza.
 Nuovo branch sempre by sara senza fare fetch origin
 
+=======
+Aggiunta file by kukuviza, modifica by sara
+Nuovo branch sempre by sara senza fare fetch origin
+>>>>>>> origin/test-branch-by-sara
